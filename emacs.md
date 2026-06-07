@@ -51,4 +51,16 @@ Linuxでemacsを使っている場合、`${HOME}/.emacs.el`を編集すること
        (set-window-point (selected-window) other-window-point)
        (set-window-start (selected-window) other-window-start))
      (select-window other-window)))
+
+(add-hook 'verilog-mode-hook
+          (lambda ()
+            (setq verilog-indent-level              2
+                  verilog-indent-level-module       2
+                  verilog-indent-level-declaration  2
+                  verilog-indent-level-behavioral   2
+                  verilog-case-indent               2
+                  verilog-cexp-indent               2)
+            ;; タブではなくスペースで字下げ
+            (setq indent-tabs-mode nil)))
+
 ```
