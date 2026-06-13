@@ -21,10 +21,10 @@
 |Grok (xAI)|Grok 4.x (Grok 5予定)|X (旧Twitter) とWebのリアルタイム情報に強く、率直で制約の少ない作風と高い推論力。エージェント的ツール呼び出しに強く幻覚率が低いとされる版もある。動画生成(Grok Imagine)|作風が業務には砕けすぎる場合がある。Xエコシステム依存。論争・偏りの指摘があり、企業導入はまだ限定的|
 
 
-- ChatGPT: [OpenAI GPT-5.5 Instant](#https://openai.com/ja-JP/index/gpt-5-5-instant/) / [ChatGPT 2026ガイド](#https://www.solidaitech.com/2026/05/chatgpt-complete-guide-models-features.html)
-- Claude: [Anthropic Opus 4.8発表](#https://www.anthropic.com/news/claude-opus-4-8) / [Claudeモデル比較](#https://www.remoteopenclaw.com/blog/best-claude-models-2026)
-- Gemini: [Google DeepMind Gemini](#https://deepmind.google/models/gemini/) / [Gemini価格・モデル解説](#https://www.eesel.ai/blog/google-gemini-3-pricing)
-- Copilot: [M365 Copilot 2026年5月更新](#https://techcommunity.microsoft.com/blog/microsoft365copilotblog/what%E2%80%99s-new-in-microsoft-365-copilot--may-2026/4522010) / [Copilot機能解説](#https://copilot-experts.com/top-microsoft-copilot-features/)
-- Perplexity: [Perplexity強み・弱みレビュー](#https://konabayev.com/blog/perplexity-ai-review/) / [G2レビュー](#https://learn.g2.com/perplexity-ai-review)
-- DeepSeek: [DeepSeekモデル比較](#https://www.remoteopenclaw.com/blog/best-deepseek-models-2026) / [V4-Proベンチマーク](#https://blog.4sapi.com/blog/deepseek-v4-pro-benchmark-review-strengths-weaknesses)
-- Grok: [xAI Grokガイド](#https://www.robylon.ai/blog/what-is-xai-grok-a-complete-guide-to-the-chatbot) / [Grokモデル一覧](#https://www.lorka.ai/ai-models/xai)
+- ChatGPT: (OpenAI GPT-5.5 Instant)[#https://openai.com/ja-JP/index/gpt-5-5-instant/] / (ChatGPT 2026ガイド)[#https://www.solidaitech.com/2026/05/chatgpt-complete-guide-models-features.html]
+- Claude: (Anthropic Opus 4.8発表)[#https://www.anthropic.com/news/claude-opus-4-8] / (Claudeモデル比較)[#https://www.remoteopenclaw.com/blog/best-claude-models-2026]
+- Gemini: (Google DeepMind Gemini)[#https://deepmind.google/models/gemini/] / (Gemini価格・モデル解説)[#https://www.eesel.ai/blog/google-gemini-3-pricing]
+- Copilot: (M365 Copilot 2026年5月更新)[#https://techcommunity.microsoft.com/blog/microsoft365copilotblog/what%E2%80%99s-new-in-microsoft-365-copilot--may-2026/4522010] / (Copilot機能解説)[#https://copilot-experts.com/top-microsoft-copilot-features/]
+- Perplexity: (Perplexity強み・弱みレビュー)[#https://konabayev.com/blog/perplexity-ai-review/] / (G2レビュー)[#https://learn.g2.com/perplexity-ai-review]
+- DeepSeek: (DeepSeekモデル比較)[#https://www.remoteopenclaw.com/blog/best-deepseek-models-2026] / (V4-Proベンチマーク)[#https://blog.4sapi.com/blog/deepseek-v4-pro-benchmark-review-strengths-weaknesses]
+- Grok: (xAI Grokガイド)[#https://www.robylon.ai/blog/what-is-xai-grok-a-complete-guide-to-the-chatbot] / (Grokモデル一覧)[#https://www.lorka.ai/ai-models/xai]
